@@ -2,7 +2,9 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando c#
-- <div> <a href="https://www.linkedin.com/in/jo%C3%A3o-rossetto-234294250/"> <div />
+##
+<div> <a href="https://www.linkedin.com/in/joõo-rossetto-234294250/"> <div/>
+##
 <div align="center">
   <a href="https://https://github.com/joaoguthix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoguthix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
