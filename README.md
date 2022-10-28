@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando c#
-- linkedin https://www.linkedin.com/in/joão-rossetto-234294250/
+- linkedin https://www.linkedin.com/in/joão-rossetto/
 
     
 <div align="center">
