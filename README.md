@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando c#
 <div aling="right">
-  <ahref="https://www.linkedin.com/in/joõo-rossetto-234294250/">
+  <a href="https://www.linkedin.com/in/joõo-rossetto-234294250/">
 <div/>
 ##
 <div align="center">
