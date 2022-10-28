@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando c#
+- <a href="https://www.linkedin.com/in/jo%C3%A3o-rossetto-234294250/">
 
 <div align="center">
   <a href="https://https://github.com/joaoguthix">
