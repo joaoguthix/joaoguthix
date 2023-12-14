@@ -14,6 +14,7 @@
 ## Featured Projects
 - 🌐 [GerencyI](https://gerencyi-homolog.vercel.app/).
 - 🌐 [ApiGerenyIAuthentication](https://gerencyiauthentication.azurewebsites.net/swagger/index.html).
+- 🌐 [Repository from Apis GerenyI](https://github.com/gerencyme/gerencyI-server).
 
 ## Academic Pursuits
 - 🎓 Software Engineering student at University FMU.
