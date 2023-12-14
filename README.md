@@ -3,8 +3,8 @@
 # Welcome to My Profile! 👋
 
 ## About Me
-- 🔭 FullStack Developer passionate about creating innovative solutions.
-- 🌱 Software Engineering student on a journey of continuous learning and improvement.
+- 🔭 FullStack Developer.
+- 🌱 Software Engineering.
 
 ## Skills
 - 🚀 Backend Technologies: C#, .Net, Ocelot, MongoDB, SqlServer, Oracle.
@@ -13,7 +13,7 @@
 
 ## Featured Projects
 - 🌐 [GerencyI](https://gerencyi-homolog.vercel.app/).
-- 🚀 [ApiAuthenticationGerencyI]([another_project_link](https://gerencyiauthentication.azurewebsites.net/swagger)).
+- 🚀 [ApiAuthenticationGerencyI]([https:erencyiauthentication.azurewebsites.net/swagger/]).
 
 ## Academic Pursuits
 - 🎓 Software Engineering student at [University FMU].
