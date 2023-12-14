@@ -20,7 +20,7 @@
 
 ## Social Media and Contact
 - 📫 Email: joaorossetto7065@gmail.com
-- 📱 LinkedIn: [LinkedIn Profile](linkedin.com/in/joão-rossetto)
+- 📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joão-rossetto/)
     
 <div align="center">
   <a href="https://https://github.com/joaoguthix">
