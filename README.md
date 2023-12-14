@@ -1,9 +1,26 @@
-### Olá: Eu sou o João 👋
+### hello: I'm João 👋
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando c#
-- linkedin https://www.linkedin.com/in/joão-rossetto/
+# Welcome to My Profile! 👋
 
+## About Me
+- 🔭 FullStack Developer passionate about creating innovative solutions.
+- 🌱 Software Engineering student on a journey of continuous learning and improvement.
+
+## Skills
+- 🚀 Backend Technologies: C#, .Net, Ocelot, MongoDB, SqlServer, Oracle.
+- 💻 Frontend Technologies: Ts, JS, Vue.
+- 🔧 Tools: Git, VSCode, Docker, K8s, CI/CD.
+
+## Featured Projects
+- 🌐 [GerencyI](https://gerencyi-homolog.vercel.app/).
+- 🚀 [ApiAuthenticationGerencyI]([another_project_link](https://gerencyiauthentication.azurewebsites.net/swagger)).
+
+## Academic Pursuits
+- 🎓 Software Engineering student at [University FMU].
+
+## Social Media and Contact
+- 📫 Email: joaorossetto7065@gmail.com
+- 📱 LinkedIn: [Your LinkedIn Profile]([linkedin_link](https://www.linkedin.com/in/joão-rossetto/))
     
 <div align="center">
   <a href="https://https://github.com/joaoguthix">
