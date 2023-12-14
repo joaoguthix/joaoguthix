@@ -13,14 +13,14 @@
 
 ## Featured Projects
 - 🌐 [GerencyI](https://gerencyi-homolog.vercel.app/).
-- 🚀 [Another Project](https://gerencyiauthentication.azurewebsites.net/swagger/index.html).
+- 🚀 [ApiGerenyIAuthentication](https://gerencyiauthentication.azurewebsites.net/swagger/index.html).
 
 ## Academic Pursuits
 - 🎓 Software Engineering student at [University FMU].
 
 ## Social Media and Contact
 - 📫 Email: joaorossetto7065@gmail.com
-- 📱 LinkedIn: [Your LinkedIn Profile](linkedin_link)
+- 📱 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/joão-rossetto)
     
 <div align="center">
   <a href="https://https://github.com/joaoguthix">
