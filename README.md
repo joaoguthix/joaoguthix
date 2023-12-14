@@ -13,7 +13,7 @@
 
 ## Featured Projects
 - 🌐 [GerencyI](https://gerencyi-homolog.vercel.app/).
-- 🚀 [ApiAuthenticationGerencyI]([https://gerencyiauthentication.azurewebsites.net/swagger/]).
+- 🚀 [Another Project](https://gerencyiauthentication.azurewebsites.net/swagger/index.html).
 
 ## Academic Pursuits
 - 🎓 Software Engineering student at [University FMU].
