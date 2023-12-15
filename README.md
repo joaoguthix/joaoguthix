@@ -4,7 +4,7 @@
 
 ## About Me
 - 🔭 FullStack Developer.
-- 🌱 Software Engineering.
+- 🌱 software Archtecture .
 
 ## Skills
 - 🧠 Backend Technologies: C#, .Net, Ocelot, MongoDB, SqlServer, Oracle.
@@ -17,7 +17,7 @@
 - 🌐 [Repository from Apis GerencyI](https://github.com/gerencyme/gerencyI-server).
 
 ## Academic Pursuits
-- 🎓 Software Engineering student at University FMU.
+- 🎓 Computer Science student at University FMU.
 
 ## Social Media and Contact
 - 📫 Email: joaorossetto7065@gmail.com
