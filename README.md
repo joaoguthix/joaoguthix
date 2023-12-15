@@ -24,7 +24,7 @@
 - 📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joão-rossetto/)
     
 <div align="center">
-  <a href="https://github.com/joaoguthix>
+  <a href="https://github.com/joaoguthix">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaoguthix&count_private=true&show_icons=true&theme=midnight-purple"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguthix&langs_count=16&theme=midnight-purple&layout=compact"/>
 </div>
